@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my frontend development projec
 
 ![Portfolio Preview](https://via.placeholder.com/800x400/667eea/ffffff?text=Portfolio+Website)
 
-## 🌟 Features
+##  Features
 
 - **Responsive Design**: Fully responsive layout that works on all devices
 - **Modern UI/UX**: Clean, professional design with smooth animations
@@ -13,19 +13,11 @@ A modern, responsive portfolio website showcasing my frontend development projec
 - **Performance Optimized**: Fast loading with lazy loading images
 - **Accessibility**: Semantic HTML and keyboard navigation support
 
-## 🚀 Live Demo
+##  Live Demo
 
 [View Portfolio Website](https://your-portfolio-link.netlify.app)
 
-## 🛠️ Technologies Used
-
-- **HTML5**: Semantic markup structure
-- **CSS3**: Modern styling with Flexbox and Grid
-- **JavaScript**: Interactive functionality and animations
-- **Font Awesome**: Icons for social links and navigation
-- **Google Fonts**: Inter font family for typography
-
-## 📱 Projects Featured
+##  Projects Featured
 
 ### 1. Auction Site
 
@@ -49,14 +41,6 @@ A React-based e-commerce application with shopping cart functionality and modern
 
 - **Technologies**: React, JavaScript, CSS Modules, REST API
 - **[GitHub Repository](https://github.com/whamre/eStore)**
-
-## 🏃‍♂️ Getting Started
-
-### Prerequisites
-
-- Web browser (Chrome, Firefox, Safari, Edge)
-- Text editor (VS Code recommended)
-- Live server extension (for development)
 
 ### Installation
 
@@ -97,88 +81,6 @@ A React-based e-commerce application with shopping cart functionality and modern
    npx http-server
    ```
 
-## 📁 Project Structure
 
-```
-portfolio-website/
-├── index.html          # Main HTML file
-├── styles.css          # CSS styles
-├── script.js           # JavaScript functionality
-├── README.md           # Project documentation
-└── assets/             # Images and other assets (if needed)
-```
 
-## 🎨 Customization
 
-### Updating Project Information
-
-1. **Edit project cards in `index.html`**:
-
-   - Update project titles, descriptions, and links
-   - Replace image URLs with your project screenshots
-   - Modify technology tags
-
-2. **Update contact information**:
-
-   - Change email address in the contact section
-   - Update social media links
-
-3. **Customize styling in `styles.css`**:
-   - Modify color scheme by updating CSS variables
-   - Adjust typography and spacing
-   - Customize animations and transitions
-
-### Adding New Projects
-
-1. Copy a project card in the HTML
-2. Update the content with new project information
-3. Add corresponding images
-4. Update the grid layout if needed
-
-## 🌐 Deployment
-
-### Netlify (Recommended)
-
-1. **Create a Netlify account** at [netlify.com](https://netlify.com)
-2. **Connect your GitHub repository**
-3. **Deploy settings**:
-   - Build command: (leave empty)
-   - Publish directory: `/` (root)
-4. **Deploy the site**
-
-### GitHub Pages
-
-1. **Go to repository settings**
-2. **Scroll to Pages section**
-3. **Select source**: Deploy from a branch
-4. **Select branch**: main
-5. **Save and wait for deployment**
-
-### Manual Upload
-
-1. **Zip the project files**
-2. **Upload to your web hosting service**
-3. **Ensure `index.html` is in the root directory**
-
-## 📞 Contact
-
-**Werner Hamre**
-
-- **Email**: [hamre.dev@gmail.com](mailto:hamre.dev@gmail.com)
-- **GitHub**: [github.com/whamre](https://github.com/whamre)
-- **LinkedIn**: [linkedin.com/in/werner-hamre](https://linkedin.com/in/werner-hamre)
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙏 Acknowledgments
-
-- **Design inspiration**: Modern portfolio websites and UI/UX best practices
-- **Icons**: Font Awesome for beautiful icons
-- **Fonts**: Google Fonts for typography
-- **Colors**: Carefully chosen color palette for accessibility and aesthetics
-
----
-
-⭐ **If you like this portfolio, please give it a star!** ⭐
